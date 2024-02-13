@@ -7,8 +7,8 @@ personal_name=""
 personal_email=""
 
 # Define SSH Host configuration names from ~/.ssh/config
-ssh_host_work="github.com"
-ssh_host_personal="github-personal"
+ssh_host_work=""
+ssh_host_personal=""
 
 # Get current global Git username and email
 current_username=$(git config --global user.name)
